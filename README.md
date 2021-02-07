@@ -11,8 +11,8 @@
 
 ### Statistics 
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&theme=dark"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RemainingToast&show_icons=true&theme=dark"></p>
-<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&theme=dark"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneGaming&show_icons=true&theme=dark"></p>
+<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuneGaming&layout=compact&theme=dark"></p>
   
 #### Languages I know
  - Kotlin
