@@ -16,4 +16,4 @@
 #### Languages I know
  - C++
  - Python
- - Learning Java to do big skid
+ 
