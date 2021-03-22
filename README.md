@@ -6,7 +6,7 @@
 
 ### What Im actively working on
  * [vega.wtf](https://vega.wtf)
- * [tolon.cc](https://tolon.cc)
+ * [LustGUI](Not in a releasable state)
  
 ### Statistics 
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&theme=dark"></p>
@@ -14,6 +14,5 @@
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuneGaming&layout=compact&theme=dark"></p>
   
 #### Languages I know
- - C++
- - Python
+ - C++ 
  
