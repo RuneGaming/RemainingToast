@@ -6,7 +6,7 @@
 
 ### What Im actively working on
  * [vega.wtf](https://vega.wtf)
- * [LustGUI](Not in a releasable state)
+ * [LustGUI] (Not in a releasable state)
  
 ### Statistics 
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&theme=dark"></p>
