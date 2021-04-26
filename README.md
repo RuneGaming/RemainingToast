@@ -6,6 +6,7 @@
 
 ### What Im actively working on
  * [vega.wtf](https://vega.wtf)
+ * [hectic.email](https://hectic.email)
  * [LustGUI] (Not in a releasable state)
  
 ### Statistics 
@@ -15,4 +16,5 @@
   
 #### Languages I know
  - C++ 
+
  
